@@ -14,7 +14,7 @@ class teoriHome extends StatelessWidget {
           automaticallyImplyLeading: true,
           foregroundColor: Colors.black,
           title: const Text(
-            'TEORİLER',
+            'TEOREM',
             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
           ),
           backgroundColor: Colors.grey),

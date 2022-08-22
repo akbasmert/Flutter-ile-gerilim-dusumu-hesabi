@@ -20,7 +20,7 @@ class _calculateHomeState extends State<calculateHome> {
           automaticallyImplyLeading: true,
           foregroundColor: Colors.black,
           title: const Text(
-            'Hesaplamalar',
+            'HESAPLAMALAR',
             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
           ),
           backgroundColor: Colors.grey //Color(0xFF363f93),
